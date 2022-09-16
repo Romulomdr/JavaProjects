@@ -1,7 +1,6 @@
 ## Getting Started
 
-Learning Java for the Beck-end developer
-Enter in folder src for acess source code 
+Learning Java for the Beck-end developer enter in folder src for acess source code 
 
 ## Dependency Management
 
